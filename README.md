@@ -169,7 +169,7 @@ GeoNode can manage most formats of research data that has been collected. GeoNod
 
 ***Please note:***
 
-GeoNode does not support .GeoJOSN or .JSON file formats but they can be easily converted to a file format that GeoNode can support. See link to QGIS conversion tips [here](http://geolive.co.za/index.php/Main_Page#Converting_between_data_formats) for more information.
+GeoNode does not support .GeoJOSN or .JSON file formats but they can be easily converted to a file format that GeoNode can support. See link to QGIS conversion tips [here](https://github.com/CamGreen/NRF-STINT_Wiki#converting-between-data-formats) for more information.
 
 ## Using Stitching the City (GeoNode) for your data 
 For the Stitching the City, we are using GeoNode 2.10. ***To access the site, [click here](https://geocatalogue.co.za).***
@@ -181,11 +181,11 @@ Make sure you are logged into GeoNode before trying to view, upload or edit any 
 ```
 
 ### Uploading data:
-Before trying to upload data to GeoNode, make sure that the data is compatible with GeoNode. If you are not sure what formats are compatible with GeoNode, please see [What data can you manage with Geonode?](http://geolive.co.za/index.php/Main_Page#What_data_can_you_manage_with_GeoNode.3F) Watch this short [video](https://youtu.be/LJ9kXhONHKY) for a quick guide on uploading data. The video shows how to upload a layer to GeoNode but please note that uploading a document is exactly the same method, there is no difference in the upload method.
+Before trying to upload data to GeoNode, make sure that the data is compatible with GeoNode. If you are not sure what formats are compatible with GeoNode, please see [What data can you manage with Geonode?](https://github.com/CamGreen/NRF-STINT_Wiki#what-data-can-you-manage-with-geonode) Watch this short [video](https://youtu.be/LJ9kXhONHKY) for a quick guide on uploading data. The video shows how to upload a layer to GeoNode but please note that uploading a document is exactly the same method, there is no difference in the upload method.
 
 *Some tips for uploading data:*
 * Select appropriate file names when renaming documents.
-* Fill out the metadata as best as you can. See the importance of metadata [here.](http://geolive.co.za/index.php/Main_Page#Editing_Metadata)
+* Fill out the metadata as best as you can. See the importance of metadata [here.](https://github.com/CamGreen/NRF-STINT_Wiki#editing-metadata)
 * Be as descriptive as possible when filling in the metadata as that will help identify files later.
 * If you are unsure of anything in the metadata, rather fill it in and you can fix it later or use the '?' to provide more information.
 
@@ -195,7 +195,7 @@ Before trying to upload data to GeoNode, make sure that the data is compatible w
 * You can set permissions that single users or a group can view, download, change metadata, edit data, edit styles and manage it.
 * To set the permissions, simply type the person's username or the group's name and their username or group name will appear and you can select it.
 
-For more information on editing the metadata using the Wizard, please see [Editing Metadata.](http://geolive.co.za/index.php/Main_Page#Editing_Metadata)
+For more information on editing the metadata using the Wizard, please see [Editing Metadata.](https://github.com/CamGreen/NRF-STINT_Wiki#editing-metadata)
 
 ### Viewing and downloading data:
 GeoNode has a built in map viewer that allows users to view data on a map with an OpenStreetMap base map. Users can pan around the map, zoom in and out and click a point on the map for more information such as the GPS coordinates or attributes.
