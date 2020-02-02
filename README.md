@@ -129,6 +129,15 @@ Editing data on OSM is also a fairly easy process. There are a lot of tips and h
 * Take your time when it comes to editing as there is no prize for finishing quickly.
 * Try to add tags and comments when possible.
 
+#### How to download data from OSM:
+Downloading data from OSM is a fairly easy process and can be done in many different ways. 
+
+* Data can be easily downloaded directly from the [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=6/-28.676/24.677) site by clicking the `Export` button in the top left hand corner and then selecting the area on where you wish to get data for. 
+* Data can also be downloaded from [GeoFabrik](https://download.geofabrik.de/index.html). Select the area for where you wish to download the data. More details on the files you can download can be found [here.](http://download.geofabrik.de/technical.html)
+* Another tool for downloading data is the [HOT Export Tool](https://export.hotosm.org/en/v3/). To use this tool, you are required to have an OSM account. Log in and then select the area you wish to download and what features you want downloaded. More information on how to use this tool can be found [here.](https://export.hotosm.org/en/v3/learn)
+* Similar to GeoFabrik, [Planet OSM](https://planet.openstreetmap.org) allows you to download OSM data depending on the area of your choosing. Navigating to [here](https://planet.openstreetmap.org/planet/) allows you to select what year of the data you would like. For the most recent data, you can select the current year but for historical data, you can select another year. 
+* The [Overpass-Turbo Tool](https://overpass-turbo.eu) is the most complicated tool out of the above to download OSM data. You need to create a query using the `Wizard` to select the data you want to download in the area you want. To get more information how to use this tool, select `Help` in the top ribbon. 
+
 ### Field papers and JOSM 
 [Field Papers](http://fieldpapers.org) is a web-based tool that is used for easily creating a printable map atlas for anywhere in the world that you can print and add notes to. It is a low-tech and easy way to edit OSM. More about Field Papers can be found [here](https://wiki.openstreetmap.org/wiki/Field_Papers).
 
