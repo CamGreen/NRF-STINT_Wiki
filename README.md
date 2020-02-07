@@ -264,6 +264,16 @@ This step is also important as GeoNode can store Shapefiles but not GeoJSON file
 
 For more information on this, you can watch this short [video.](https://youtu.be/LC_fsxiPfTA)
 
+### Editing Vector Data:
+QGIS allows users to not only view data, but they can edit the data as well. Below are a few links that you can use to learn how to edit the data in QGIS. Editing data is a fairly easy enough process and with practise, it can become second nature. 
+
+* [QGIS User Manual Editing Vector Data](https://docs.qgis.org/3.4/en/docs/user_manual/working_with_vector/editing_geometry_attributes.html)
+* [QGIS Training Manual - Module 6: Creating Vector Data](https://docs.qgis.org/3.4/en/docs/training_manual/create_vector_data/index.html)
+* [gvSIG Blog - Module 5: Create and editing vectorial layers](https://blog.gvsig.org/2017/07/03/learn-gis-for-free-module-5-create-and-editing-vectorial-layers/)
+* [Edit Line or Polygon Feature in QGIS YouTube Video](https://www.youtube.com/watch?v=Ai3k7nLfkE8)
+* [Digitsing and Editing Vector Data In QGIS YouTube Video](https://www.youtube.com/watch?v=c1kbNyHvWbo)
+* [Editing misspelt names in the attribute table with QGIS YouTube Video](https://www.youtube.com/watch?v=Lia4rjnX2e8)
+
 ### Viewing or editing your GeoNode data in QGIS:
 If you wish to create a more complex map with north arrows, a better legend or scale bar, then you can use QGIS to do so. QGIS has a built in GeoNode function that allows users to access the data they have stored without downloading it. Users can also edit this data and the changes will be reflected on GeoNode.
 
